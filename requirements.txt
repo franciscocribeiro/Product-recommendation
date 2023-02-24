@@ -1,5 +1,0 @@
-random
-streamlit 
-pandas
-numpy
-Pillow
